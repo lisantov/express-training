@@ -13,6 +13,7 @@
     "types": ["node"],
     "moduleResolution": "nodenext",
     "allowSyntheticDefaultImports": true,
+    "allowImportingTsExtensions": true,
     // For nodejs:
     // "lib": ["esnext"],
     // "types": ["node"],

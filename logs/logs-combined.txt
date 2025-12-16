@@ -1,0 +1,10 @@
+{"level":"info","message":"Server started on port 3001","timestamp":"2025-12-15 21:44:44"}
+{"level":"info","message":"Server started on port 3001","timestamp":"2025-12-16 15:09:05"}
+{"level":"info","message":"Server started on port 3001","timestamp":"2025-12-16 15:09:58"}
+{"level":"info","message":"Received GET from localhost:3001","timestamp":"2025-12-16 15:10:03"}
+{"level":"info","message":"Received GET from localhost:3001","timestamp":"2025-12-16 15:10:50"}
+{"level":"info","message":"REGISTRATION // Received POST from localhost:3001 // login: lisantov; email: lisantov@yandex.ru","timestamp":"2025-12-16 15:11:02"}
+{"level":"info","message":"Received GET from localhost:3001","timestamp":"2025-12-16 15:11:06"}
+{"level":"info","message":"Server started on port 3001","timestamp":"2025-12-16 15:17:02"}
+{"level":"info","message":"Received GET from localhost:3001 to /0","timestamp":"2025-12-16 15:17:07"}
+{"level":"info","message":"Received GET from localhost:3001 to /1","timestamp":"2025-12-16 15:17:11"}
